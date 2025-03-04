@@ -7,10 +7,10 @@ This 2m Broomstick Yagi Antenna was created from cheap components found at the l
 ## Bill of materials
 
 ### Purchased
- * 3x 1m long x 10mm diameter x 1mm thick aluminium rods
- * 1x spare broom handle
+ * 3 x [1m long x 10mm diameter x 1mm thick aluminium rods](https://www.bunnings.com.au/metal-mate-10-x-1mm-1m-aluminium-round-tube-1m_p1067742) @ $3.13 = $9.39
+ * 1 x [spare broom handle](https://www.bunnings.com.au/oates-1-35m-x-22mm-duratuff-bamboo-broom-handle_p4480204) @ $7.39 = $7.39
 
-Total cost: Around AUD$15
+Total material cost: ~AUD$16.78
 
 ### Scrounged
 
