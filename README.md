@@ -41,12 +41,12 @@ Total material cost: ~AUD$16.78
  2. Drill parallel 10mm holes at the following points:
    * Zero point (a few mm in from one end) - this will be the reflector
    * Driven element point (305mm in from the zero point)
-   * Director point (710mm from the zero point)
+   * Director point (750mm from the zero point)
  3. Insert the various elements and check parallelism. If the parallelism is insufficient, modify the holes until obtained.
  4. Cut the various elements to length. Nominal lengths are:
-   * Driven element (2 pieces, each at )
-   * Reflector (1 piece of )
-   * Director (1 piece of )
+   * Driven element (2 pieces, assuming ~20mm gap after installation then each at 461mm length)
+   * Reflector (1 piece at 993mm)
+   * Director (1 piece at 897mm)
  5. Now comes the hard part. Make a 'U' shaped block of wood with which to allow the two driven elements to be inserted around but not inside of the driven element point.
  6. Zip tie the driven element mounting block in place and superglue it.
  7. Mark points very close to the driven element emerges from the mounting block and drill holes through at 2.5mm 
