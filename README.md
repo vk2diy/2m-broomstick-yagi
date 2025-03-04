@@ -18,21 +18,24 @@ Total material cost: ~AUD$16.78
  * Some kind of short feed line
  * Short length of decent quality copper or aluminium scrap wire (I used speaker wire)
  * Any type of converter from scrap wire to feed line (SMA or BNC), soldered or purchased screw terminal type
+ * 2 x M3 screws (minimum 10mm length, over 15mm undesirable and may be cut/ground to shorten), ideally flat head with inset hex drive (higher torque)
+ * 2 x M3 washers
 
 ### Tools required
 
  * 1 x Drill
  * 1 x 10mm drill bit
  * 1 x 2.5mm drill bit
- * 2 x M3 screws
  * 1 x Some kind of saw
  * 1 x Superglue
  * ~20 x Zipties
 
-### Optional tools (preferable)
+### Optional / preferable
 
  * 1 x Bench vise
  * 1 x Duct tape
+ * 2 x M3 nuts (ideally nylon insert locking nut type) - only if your screws are over 10mm
+
 ## Construction
 
 ![image](construction.webp)
